@@ -1,0 +1,2 @@
+# hammerspoon
+dot hammerspoon
